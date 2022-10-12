@@ -1,4 +1,6 @@
-Projeto com react que utiliza API OpenWeatherMap para previsão do tempo.
+# PREVISÃO DE TEMPO
+
+Projeto criado com react que utiliza API OpenWeatherMap para previsão do tempo de sua cidade. O usúario irá digitar o nome de sua cidade e a aplicação irá acessar a API para obter esses dados e mostrar na tela a previsão de acordo com a cidade inserida no campo.
 
 Link do projeto.
 https://previsao-tempo-one.vercel.app/
